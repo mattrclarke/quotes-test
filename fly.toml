@@ -8,6 +8,8 @@ primary_region = "iad"
 
 [build]
   dockerfile = "Dockerfile"
+  # Skip Shopify auto-detection
+  ignorefile = ".dockerignore"
 
 [env]
   NODE_ENV = "production"
