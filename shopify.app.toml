@@ -2,7 +2,7 @@
 
 client_id = "73b65bd6514a7bdba0f3421f81c552fe"
 name = "quotes-test"
-application_url = "https://example.com"
+application_url = "https://quotes-test-production-161d.up.railway.app"
 embedded = true
 
 [build]
